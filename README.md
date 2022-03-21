@@ -1,3 +1,3 @@
 # Learning
 
-This is a OpenGL project which I used to learin the OpenGL code.
+This is a OpenGL project which I used to learn the OpenGL code.
